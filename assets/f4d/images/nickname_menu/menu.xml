@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="box idle0000" x="0" y="0" width="879" height="251"/>
+	<SubTexture name="boxSelected0000" x="0" y="251" width="879" height="251"/>
+	<SubTexture name="your nickname0000" x="0" y="502" width="957" height="142"/>
+	<SubTexture name="your nickname typing0000" x="0" y="644" width="957" height="142"/>
+</TextureAtlas>

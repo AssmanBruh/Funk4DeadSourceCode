@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuButtons.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="extras closed0000" x="0" y="0" width="160" height="115"/>
+	<SubTexture name="extras open0000" x="160" y="0" width="178" height="115"/>
+	<SubTexture name="mutation sel0000" x="338" y="0" width="244" height="273"/>
+	<SubTexture name="mutation unsel0000" x="582" y="0" width="211" height="258"/>
+	<SubTexture name="options sel0000" x="0" y="273" width="244" height="273"/>
+	<SubTexture name="options unsel0000" x="244" y="273" width="211" height="258"/>
+	<SubTexture name="play sel0000" x="455" y="273" width="244" height="273"/>
+	<SubTexture name="play unsel0000" x="699" y="273" width="211" height="259"/>
+	<SubTexture name="survivors sel0000" x="0" y="546" width="244" height="273"/>
+	<SubTexture name="survivors unsel0000" x="244" y="546" width="211" height="258"/>
+</TextureAtlas>

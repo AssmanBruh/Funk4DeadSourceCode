@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gnome.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gnome0000" x="30" y="30" width="150" height="341" frameX="-1" frameY="0" frameWidth="151" frameHeight="341"/>
+	<SubTexture name="gnome0001" x="30" y="30" width="150" height="341" frameX="-1" frameY="0" frameWidth="151" frameHeight="341"/>
+	<SubTexture name="gnome0002" x="210" y="30" width="150" height="341" frameX="-1" frameY="0" frameWidth="151" frameHeight="341"/>
+	<SubTexture name="gnome0003" x="210" y="30" width="150" height="341" frameX="-1" frameY="0" frameWidth="151" frameHeight="341"/>
+	<SubTexture name="gnome0004" x="390" y="30" width="150" height="341" frameX="0" frameY="0" frameWidth="151" frameHeight="341"/>
+	<SubTexture name="gnome0005" x="390" y="30" width="150" height="341" frameX="0" frameY="0" frameWidth="151" frameHeight="341"/>
+	<SubTexture name="gnomeCatched0000" x="570" y="30" width="757" height="274"/>
+	<SubTexture name="gnomeCatched0001" x="30" y="401" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0002" x="802" y="401" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0003" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0004" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0005" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0006" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0007" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0008" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0009" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0010" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0011" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0012" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+	<SubTexture name="gnomeCatched0013" x="30" y="702" width="742" height="271" frameX="-15" frameY="-3" frameWidth="757" frameHeight="274"/>
+</TextureAtlas>

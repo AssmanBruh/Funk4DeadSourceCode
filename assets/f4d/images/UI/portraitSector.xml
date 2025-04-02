@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portraitSector.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portrait0000" x="0" y="0" width="305" height="151"/>
+	<SubTexture name="portrait0001" x="305" y="0" width="305" height="151"/>
+	<SubTexture name="portrait0002" x="610" y="0" width="305" height="151"/>
+	<SubTexture name="portrait0003" x="0" y="151" width="305" height="151"/>
+	<SubTexture name="portrait0004" x="305" y="151" width="305" height="151"/>
+</TextureAtlas>

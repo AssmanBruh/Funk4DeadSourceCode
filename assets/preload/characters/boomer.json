@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BoomIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BoomLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BoomDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BoomUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BoomRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				18
+			],
+			"anim": "disgorge",
+			"fps": 24,
+			"name": "BoomBoom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				451,
+				242
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "boom",
+			"loop": false,
+			"name": "BoomExplode"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boomer",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "boomer",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		150,
+		79
+	],
+	"camera_position": [
+		235,
+		250
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

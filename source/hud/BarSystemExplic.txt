@@ -1,0 +1,11 @@
+ok, the new bar system consist on two objects.
+
+player bar and opp bar,
+
+in this new system the opp bar its just an visual obj,
+in some cases the opp bar has a little changes, with the life. the powerbar in infecteds
+
+but the player bar is the only funclty bar.
+with health gain, health loose, and othe shits
+
+okay thats all :D

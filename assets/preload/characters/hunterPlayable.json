@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleHunt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftHunt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				-205
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownHunt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				96
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpHunt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightHunt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				143,
+				587
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "jump",
+			"loop": false,
+			"name": "JumpHunt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hunter",
+	"position": [
+		80,
+		70
+	],
+	"healthicon": "hunter",
+	"flip_x": true,
+	"healthbar_colors": [
+		46,
+		52,
+		98
+	],
+	"camera_position": [
+		370,
+		34
+	],
+	"sing_duration": 5.5,
+	"scale": 1
+}

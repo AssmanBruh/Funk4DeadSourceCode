@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Singer-killer", "ellis", [146, 113, 253]],
+		["Charged-troubles", "charger", [146, 113, 253]],
+		["Infected-issues", "boomette", [146, 113, 253]],
+		["Acid-infection", "spitter", [146, 113, 253]],
+		["Nicotina", "smoker", [146, 113, 253]],
+		["Dark Concert", "bf", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "YOU MUST BE SINGER TO DIE",
+	"weekBefore": "tutorial",
+	"weekName": "Dark Carnival Singers Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

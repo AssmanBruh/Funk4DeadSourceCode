@@ -1,0 +1,10 @@
+bf
+gf
+bf-holding-gf
+pico
+pico-player
+ellis
+boomer
+hunter
+hunter-op
+spitter

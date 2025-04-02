@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOOMERnoteSplashes.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="splashnote instancia 10000" x="0" y="0" width="448" height="257" frameX="-47" frameY="-39" frameWidth="569" frameHeight="333"/>
+	<SubTexture name="splashnote instancia 10001" x="448" y="0" width="393" height="267" frameX="-76" frameY="-23" frameWidth="569" frameHeight="333"/>
+	<SubTexture name="splashnote instancia 10002" x="0" y="267" width="455" height="286" frameX="-55" frameY="0" frameWidth="569" frameHeight="333"/>
+	<SubTexture name="splashnote instancia 10003" x="455" y="267" width="520" height="294" frameX="-29" frameY="-14" frameWidth="569" frameHeight="333"/>
+	<SubTexture name="splashnote instancia 10004" x="0" y="561" width="569" height="312" frameX="0" frameY="-21" frameWidth="569" frameHeight="333"/>
+	<SubTexture name="splashnote instancia 10005" x="569" y="561" width="0" height="0" frameX="465" frameY="73" frameWidth="569" frameHeight="333"/>
+</TextureAtlas>

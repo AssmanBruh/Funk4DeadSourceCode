@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Menu", "face", [0, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "MENU SONG EXPERIENCE",
+	"weekBefore": "specialrivals",
+	"weekName": "Menu Song",
+	"startUnlocked": true,
+	"difficulties": "hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

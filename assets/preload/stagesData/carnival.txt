@@ -1,0 +1,39 @@
+
+            wall.setPosition(-1617.05, -961.9);
+
+            floor.setPosition(-930.1,-241.6);
+
+            coach.setPosition(604.65,126.35);
+
+            nick.setPosition(-348.25,145.5);
+
+            rochelle.setPosition(355.75,161.7);
+
+            lights.setPosition(-982,-301);
+
+            shade.setPosition(-1155.5,-967.5);
+
+            shade.scale.set(1, 1);
+
+            shadow.setPosition(-518.5,-435.5);
+
+            shadow.scale.set(0.87, 0.87);
+
+            clown.setPosition(-538,200);
+
+            staff.setPosition(1060,220);
+
+            common1.setPosition(-320,600);
+
+            common2.setPosition(170,584);
+
+            common3.setPosition(900,580);
+
+
+
+            zoom: 0.398601768481567
+
+            camx: 138.5
+
+            camy: 352
+            

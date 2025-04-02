@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spitter instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spitterAttack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spitter",
+	"position": [
+		-400,
+		-40
+	],
+	"healthicon": "boomer",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		150,
+		79
+	],
+	"camera_position": [
+		10,
+		-110
+	],
+	"sing_duration": 15,
+	"scale": 1
+}

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spitter.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spitter instancia 10000" x="0" y="0" width="207" height="283" frameX="0" frameY="-16" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10001" x="0" y="0" width="207" height="283" frameX="0" frameY="-16" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10002" x="207" y="0" width="202" height="277" frameX="-2" frameY="-22" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10003" x="409" y="0" width="197" height="293" frameX="-5" frameY="-5" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10004" x="409" y="0" width="197" height="293" frameX="-5" frameY="-5" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10005" x="606" y="0" width="196" height="295" frameX="-5" frameY="-3" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10006" x="606" y="0" width="196" height="295" frameX="-5" frameY="-3" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10007" x="802" y="0" width="196" height="295" frameX="-5" frameY="-3" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10008" x="802" y="0" width="196" height="295" frameX="-5" frameY="-3" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10009" x="998" y="0" width="195" height="297" frameX="-5" frameY="-1" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10010" x="998" y="0" width="195" height="297" frameX="-5" frameY="-1" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10011" x="998" y="0" width="195" height="297" frameX="-5" frameY="-1" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10012" x="998" y="0" width="195" height="297" frameX="-5" frameY="-1" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10013" x="998" y="0" width="195" height="297" frameX="-5" frameY="-1" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10014" x="998" y="0" width="195" height="297" frameX="-5" frameY="-1" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitter instancia 10015" x="1193" y="0" width="191" height="297" frameX="-7" frameY="0" frameWidth="207" frameHeight="299"/>
+	<SubTexture name="spitterAttack instancia 10000" x="1384" y="0" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10001" x="1678" y="0" width="305" height="304" frameX="0" frameY="-6" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10002" x="0" y="314" width="305" height="304" frameX="0" frameY="-6" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10003" x="305" y="314" width="296" height="309" frameX="-5" frameY="-3" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10004" x="601" y="314" width="296" height="309" frameX="-5" frameY="-3" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10005" x="897" y="314" width="294" height="312" frameX="-6" frameY="-1" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10006" x="1191" y="314" width="294" height="312" frameX="-6" frameY="-1" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10007" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10008" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10009" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10010" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10011" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10012" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10013" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10014" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10015" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10016" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10017" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10018" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10019" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+	<SubTexture name="spitterAttack instancia 10020" x="1485" y="314" width="294" height="314" frameX="-6" frameY="0" frameWidth="305" frameHeight="314"/>
+</TextureAtlas>

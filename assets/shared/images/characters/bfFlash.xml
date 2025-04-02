@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfFlash.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf-flash instancia 10000" x="0" y="0" width="407" height="414"/>
+	<SubTexture name="bf-flash instancia 10001" x="0" y="0" width="407" height="414"/>
+	<SubTexture name="bf-flash instancia 10002" x="0" y="0" width="407" height="414"/>
+	<SubTexture name="bf-flash instancia 10003" x="0" y="0" width="407" height="414"/>
+	<SubTexture name="bf-flash instancia 10004" x="0" y="0" width="407" height="414"/>
+	<SubTexture name="bf-flash instancia 10005" x="0" y="0" width="407" height="414"/>
+	<SubTexture name="bf-flash instancia 10006" x="0" y="0" width="407" height="414"/>
+	<SubTexture name="bf-flash instancia 10007" x="0" y="0" width="407" height="414"/>
+	<SubTexture name="bf-flash instancia 10008" x="407" y="0" width="321" height="293" frameX="-45" frameY="-63" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10009" x="728" y="0" width="199" height="178" frameX="-106" frameY="-120" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10010" x="0" y="414" width="101" height="84" frameX="-155" frameY="-167" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10011" x="101" y="414" width="85" height="68" frameX="-158" frameY="-172" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10012" x="186" y="414" width="35" height="40" frameX="-189" frameY="-189" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10013" x="221" y="414" width="25" height="33" frameX="-195" frameY="-192" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10014" x="246" y="414" width="16" height="19" frameX="-199" frameY="-201" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10015" x="262" y="414" width="5" height="5" frameX="-205" frameY="-208" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10016" x="262" y="414" width="5" height="5" frameX="-205" frameY="-208" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10017" x="267" y="414" width="24" height="27" frameX="-195" frameY="-195" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10018" x="291" y="414" width="37" height="46" frameX="-186" frameY="-185" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10019" x="328" y="414" width="70" height="105" frameX="-173" frameY="-148" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10020" x="398" y="414" width="107" height="149" frameX="-145" frameY="-121" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10021" x="505" y="414" width="123" height="161" frameX="-139" frameY="-112" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10022" x="628" y="414" width="148" height="184" frameX="-126" frameY="-107" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10023" x="776" y="414" width="158" height="192" frameX="-119" frameY="-106" frameWidth="407" frameHeight="414"/>
+	<SubTexture name="bf-flash instancia 10024" x="934" y="414" width="0" height="0" frameX="-487" frameY="43" frameWidth="407" frameHeight="414"/>
+</TextureAtlas>

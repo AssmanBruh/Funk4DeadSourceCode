@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pfpMark.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mark0000" x="0" y="0" width="234" height="234"/>
+	<SubTexture name="pfp select0000" x="234" y="0" width="239" height="234" frameX="0" frameY="0" frameWidth="240" frameHeight="234"/>
+	<SubTexture name="pfp select0001" x="234" y="0" width="239" height="234" frameX="0" frameY="0" frameWidth="240" frameHeight="234"/>
+	<SubTexture name="pfp select0002" x="0" y="234" width="240" height="234"/>
+	<SubTexture name="pfp select0003" x="0" y="234" width="240" height="234"/>
+	<SubTexture name="pfp select0004" x="240" y="234" width="239" height="234" frameX="0" frameY="0" frameWidth="240" frameHeight="234"/>
+	<SubTexture name="pfp select0005" x="240" y="234" width="239" height="234" frameX="0" frameY="0" frameWidth="240" frameHeight="234"/>
+</TextureAtlas>
