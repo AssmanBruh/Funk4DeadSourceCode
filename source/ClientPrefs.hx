@@ -8,6 +8,7 @@ import Controls;
 
 class ClientPrefs {
 	public static var dontFuckmeUI:Bool = false;
+	public static var AllSongScore:Int = 0;
 	public static var downScroll:Bool = false;
 	public static var middleScroll:Bool = false;
 	public static var opponentStrums:Bool = true;
@@ -94,6 +95,24 @@ class ClientPrefs {
 		//trace(defaultKeys);
 	}
 
+	public static function saveModScore(){
+		FlxG.save.data.AllSongScore = AllSongScore;
+		FlxG.save.data.playedSongs = playedSongs;
+	}
+
+	public static var playedSongs:Array<String> =[];
+	public static function isPlayedSong(lesong:String):Bool{
+		for (song in playedSongs){
+			trace("playing: "+lesong+", not"+song);
+			if (lesong != song){
+				trace("playing: "+lesong+", played"+song);
+				playedSongs.push(lesong);
+				return true;
+			}
+		}
+		return false;
+	}
+
 	public static function saveSettings() {
 		FlxG.save.data.downScroll = downScroll;
 		FlxG.save.data.middleScroll = middleScroll;
@@ -142,6 +161,12 @@ class ClientPrefs {
 	}
 
 	public static function loadPrefs() {
+		if(FlxG.save.data.AllSongScore != null) {
+			AllSongScore = FlxG.save.data.AllSongScore;
+		}
+		if(FlxG.save.data.playedSongs != null) {
+			playedSongs = FlxG.save.data.playedSongs;
+		}
 		if(FlxG.save.data.downScroll != null) {
 			downScroll = FlxG.save.data.downScroll;
 		}

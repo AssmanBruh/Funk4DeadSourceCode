@@ -21,6 +21,8 @@ import openfl.filters.ShaderFilter;
 import openfl.filters.BitmapFilter;
 import menus.nickname.NickNameState;
 import flixel.tweens.FlxTween;
+// gamejolt
+import gamejolt.GameJoltManager;
 
 class Funk4DeadMainMenu extends MusicBeatState{
 
@@ -45,7 +47,7 @@ class Funk4DeadMainMenu extends MusicBeatState{
         instance = this;
 
         menuData();
-
+    
         bgShader = new SaturationShader();
 
         // BACKGROUND HERE
@@ -82,38 +84,42 @@ class Funk4DeadMainMenu extends MusicBeatState{
              menuGrp.add(menu);
              FlxMouseEvent.add(menu, 
                 function(object:FlxSprite/*mousedown*/){
-                    if(!selectedSomethin){
-                        // if(object==gfDance){
-                        //     var anims = ["singUP","singLEFT","singRIGHT","singDOWN"];
-                        //     var sounds = ["GF_1","GF_2","GF_3","GF_4"];
-                        //     var anim = FlxG.random.int(0,3);
-                        //     gfDance.holdTimer=0;
-                        //     gfDance.playAnim(anims[anim]);
-                        //     FlxG.sound.play(Paths.sound(sounds[anim]));
-                        // }else{
-                            for(obj in menuGrp.members){
-                                if(obj==object){
-                                    accept();
-                                    break;
+                    if (persistentUpdate){
+                        if(!selectedSomethin){
+                            // if(object==gfDance){
+                            //     var anims = ["singUP","singLEFT","singRIGHT","singDOWN"];
+                            //     var sounds = ["GF_1","GF_2","GF_3","GF_4"];
+                            //     var anim = FlxG.random.int(0,3);
+                            //     gfDance.holdTimer=0;
+                            //     gfDance.playAnim(anims[anim]);
+                            //     FlxG.sound.play(Paths.sound(sounds[anim]));
+                            // }else{
+                                for(obj in menuGrp.members){
+                                    if(obj==object){
+                                        accept();
+                                        break;
+                                    }
                                 }
-                            }
-                        // }
+                            // }
+                        }
                     }
                 },
                 function(object:FlxSprite/**onUp**/){
 
                 },
                 function(object:FlxSprite/**onmouseover**/){
-                    if(!selectedSomethin){
-                        for(idx in 0...menuGrp.members.length){
-                            var obj = menuGrp.members[idx];
-                            if(obj==object){
-                                if(idx!=curSelected){
-                                    FlxG.sound.play(Paths.sound('scrollMenu'));
-                                    if (newDisplacement){
-                                    onHover(object);
+                    if (persistentUpdate){
+                        if(!selectedSomethin){
+                            for(idx in 0...menuGrp.members.length){
+                                var obj = menuGrp.members[idx];
+                                if(obj==object){
+                                    if(idx!=curSelected){
+                                        FlxG.sound.play(Paths.sound('scrollMenu'));
+                                        if (newDisplacement){
+                                        onHover(object);
+                                        }
+                                        changeItem(idx,true);
                                     }
-                                    changeItem(idx,true);
                                 }
                             }
                         }
@@ -176,6 +182,11 @@ class Funk4DeadMainMenu extends MusicBeatState{
                 openSubState(new NickNameState());
             }
 
+            if (FlxG.keys.justPressed.FOUR){
+                persistentUpdate = false;
+                persistentDraw = true;
+                openSubState(new gamejolt.GameJoltLogin());
+            }
         }
 
         if (controls.UI_LEFT_P){
@@ -300,5 +311,14 @@ class Funk4DeadMainMenu extends MusicBeatState{
 		debugKeys = ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_1'));
 
 		persistentUpdate = persistentDraw = true;
+    }
+
+    override function closeSubState() {
+        persistentUpdate = true;
+        persistentDraw = true;
+        if (GameJoltManager.isLoggedIn){
+            GameJoltManager.sendTrophy(263423);
+        }
+        super.closeSubState();
     }
 }

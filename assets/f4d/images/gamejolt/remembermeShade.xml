@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="remembermeShade.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="remember check instancia 10000" x="0" y="0" width="326" height="118" frameX="-327" frameY="-328" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10001" x="326" y="0" width="334" height="126" frameX="-323" frameY="-324" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10002" x="660" y="0" width="340" height="132" frameX="-320" frameY="-321" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10003" x="1000" y="0" width="348" height="140" frameX="-316" frameY="-317" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10004" x="1348" y="0" width="354" height="146" frameX="-313" frameY="-314" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10005" x="0" y="146" width="362" height="154" frameX="-309" frameY="-310" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10006" x="362" y="146" width="368" height="160" frameX="-306" frameY="-307" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10007" x="730" y="146" width="376" height="168" frameX="-302" frameY="-303" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10008" x="1106" y="146" width="476" height="268" frameX="-252" frameY="-253" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10009" x="0" y="414" width="578" height="370" frameX="-201" frameY="-202" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10010" x="578" y="414" width="679" height="472" frameX="-151" frameY="-151" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10011" x="1257" y="414" width="779" height="572" frameX="-101" frameY="-101" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10012" x="0" y="986" width="881" height="674" frameX="-50" frameY="-50" frameWidth="981" frameHeight="774"/>
+	<SubTexture name="remember check instancia 10013" x="881" y="986" width="981" height="774"/>
+</TextureAtlas>

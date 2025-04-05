@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gameJoltLogin.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="checkbox check0000" x="0" y="0" width="93" height="77"/>
+	<SubTexture name="checkbox check0001" x="0" y="0" width="93" height="77"/>
+	<SubTexture name="checkbox uncheck0000" x="93" y="0" width="93" height="74"/>
+	<SubTexture name="game token title0000" x="186" y="0" width="362" height="44"/>
+	<SubTexture name="gamejoltLogo0000" x="548" y="0" width="667" height="187"/>
+	<SubTexture name="gametoken box0000" x="1215" y="0" width="615" height="75"/>
+	<SubTexture name="help button basic0000" x="1830" y="0" width="226" height="190"/>
+	<SubTexture name="help button white0000" x="2056" y="0" width="226" height="190"/>
+	<SubTexture name="login basic0000" x="2282" y="0" width="245" height="75"/>
+	<SubTexture name="login white0000" x="2527" y="0" width="245" height="75"/>
+	<SubTexture name="remember me0000" x="2772" y="0" width="297" height="89"/>
+	<SubTexture name="username box0000" x="3069" y="0" width="615" height="75"/>
+	<SubTexture name="username title0000" x="3684" y="0" width="292" height="48"/>
+	<SubTexture name="zombie0000" x="0" y="190" width="674" height="625" frameX="0" frameY="-34" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0001" x="0" y="190" width="674" height="625" frameX="0" frameY="-34" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0002" x="674" y="190" width="671" height="641" frameX="-6" frameY="-18" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0003" x="674" y="190" width="671" height="641" frameX="-6" frameY="-18" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0004" x="1345" y="190" width="657" height="652" frameX="-13" frameY="-8" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0005" x="1345" y="190" width="657" height="652" frameX="-13" frameY="-8" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0006" x="2002" y="190" width="648" height="658" frameX="-20" frameY="-3" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0007" x="2002" y="190" width="648" height="658" frameX="-20" frameY="-3" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0008" x="2650" y="190" width="641" height="660" frameX="-26" frameY="-1" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0009" x="2650" y="190" width="641" height="660" frameX="-26" frameY="-1" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0010" x="3291" y="190" width="636" height="662" frameX="-30" frameY="0" frameWidth="677" frameHeight="662"/>
+	<SubTexture name="zombie0011" x="3291" y="190" width="636" height="662" frameX="-30" frameY="0" frameWidth="677" frameHeight="662"/>
+</TextureAtlas>

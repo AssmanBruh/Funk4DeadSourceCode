@@ -24,6 +24,10 @@ import sys.io.File;
 import sys.io.Process;
 #end
 
+// gamejolt stuff
+import gamejolt.GameJoltManager;
+import gamejolt.GameJoltClient;
+
 using StringTools;
 
 class Main extends Sprite
@@ -88,6 +92,9 @@ class Main extends Sprite
 		}
 	
 		ClientPrefs.loadDefaultKeys();
+		// Al inicio de tu juego
+		GameJoltManager.init();
+		GameJoltClient.init();
 		addChild(new FlxGame(gameWidth, gameHeight, initialState, #if (flixel < "5.0.0") zoom, #end Std.int(framerate), Std.int(framerate), skipSplash, startFullscreen));
 
 		#if !mobile

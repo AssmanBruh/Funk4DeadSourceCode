@@ -74,6 +74,10 @@ import sys.io.File;
 
 import hud.*;
 
+// gamejolt
+import gamejolt.GameJoltManager;
+import gamejolt.GameJoltClient;
+
 #if VIDEOS_ALLOWED
 #if (hxCodec >= "2.6.1") import hxcodec.VideoHandler as MP4Handler;
 #elseif (hxCodec == "2.6.0") import VideoHandler as MP4Handler;
@@ -3914,6 +3918,11 @@ class PlayState extends MusicBeatState
 					var percent:Float = ratingPercent;
 					if(Math.isNaN(percent)) percent = 0;
 					Highscore.saveScore(SONG.song, songScore, storyDifficulty, percent);
+					GameJoltManager.sendScore(songScore, 997202, "Earned points "+songScore+" score on "+SONG.song);
+					if (ClientPrefs.isPlayedSong(SONG.song)){
+					ClientPrefs.AllSongScore += songScore;
+					ClientPrefs.saveModScore();
+					}
 					#end
 				}
 			playbackRate = 1;

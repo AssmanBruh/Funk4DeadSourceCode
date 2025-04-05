@@ -1,0 +1,5 @@
+{
+    "gameID": "YOUR_GAME_ID_HERE AS A INT, NOT STRING",
+    "privateKey": "YOUR_PRIVATE_KEY_HERE",
+    "gameTitle": "YOUR_GAME_TITLE_HERE"
+}
